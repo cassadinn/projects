@@ -1,0 +1,2 @@
+this is a python code.
+when you activate it to start recording hit enter and to stop recording hit enter again
